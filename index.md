@@ -5,16 +5,30 @@
 layout: default
 ---
 
-# Soon
+# **NoMoreOops**
 
-A simple *coming soon* page built for [Jekyll](https://jekyllrb.com/docs/).
+**From Purchase to Peace** – Never lose track of what matters.
 
-## What's in it?
+---
 
-Soon is a single static page with a full-screen image, nothing more. Remember those *under construction* sites? The point is to show a quick message or a temporary contact page to your visitors. Use this template for a few hours to a few days while you are building your site in the background. Since the page comes with a Jekyll environment, you can host it for free on GitHub.
+## **What’s in it?**
 
-***
+We’re building something thoughtful, useful, and a little bit magical.
+We’re not ready to share the details just yet — but trust us, it’s worth waiting for. 🤫
 
-## Get started
+Thank you for your patience and curiosity. Stay tuned.
 
-[README](https://github.com/YJPL/soon/blob/master/README.md) Get [Soon](https://github.com/YJPL/soon/).
+---
+
+## **Who is it for?**
+
+It’s for **you** — the everyday people who deserve fewer *“Oops!”* moments.
+
+We're designing something that helps you stay in control, without the chaos.
+That’s all we can say for now 😉
+
+---
+
+### 💌 Want to be the first to know?
+
+Drop us a note at **[hello@nomoreoops.com](mailto:hello@nomoreoops.com)** — we’d love to hear from you.

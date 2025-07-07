@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: NoMoreOops
-email: info@nomoreoops.io
-phone: 0123456789
+email: hello@nomoreoops.io
+phone: +91-9940612141
 description: A coming soon page for NoMoreOops
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nomoreoops.io" # the base hostname & protocol for your site, e.g. http://example.com
