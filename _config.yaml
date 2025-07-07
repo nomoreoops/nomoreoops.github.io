@@ -17,7 +17,7 @@ title: NoMoreOops
 email: hello@nomoreoops.io
 description: A coming soon page for NoMoreOops
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://nomoreoops.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://nomoreoops.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: nomoreoops
 
 # Build settings
