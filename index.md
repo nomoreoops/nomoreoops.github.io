@@ -31,4 +31,4 @@ That’s all we can say for now 😉
 
 ### 💌 Want to be the first to know?
 
-Drop us a note at **[hello@nomoreoops.com](mailto:hello@nomoreoops.com)** — we’d love to hear from you.
+Drop us a note at **[hello@nomoreoops.io](mailto:hello@nomoreoops.io)** — we’d love to hear from you.

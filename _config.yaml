@@ -15,7 +15,6 @@
 # in the templates via {{ site.myvariable }}.
 title: NoMoreOops
 email: hello@nomoreoops.io
-phone: +91-9940612141
 description: A coming soon page for NoMoreOops
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nomoreoops.io" # the base hostname & protocol for your site, e.g. http://example.com
